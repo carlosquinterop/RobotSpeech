@@ -15,13 +15,14 @@ RobotSpeech::RobotSpeech()
     buttonTexts[1] = "Adiós";
     buttonTexts[2] = "Sí";
     buttonTexts[3] = "No";
-    buttonTexts[4] = "Bienvenidos";
-    buttonTexts[5] = "Un placer conocerlos";
-    buttonTexts[6] = "No oigo";
-    buttonTexts[7] = "¿Cómo están?";
-    buttonTexts[8] = "Nos vemos en una \n próxima ocasión";
-    buttonTexts[9] = "Soy un robot";
-    buttonTexts[10] = "Hagamos silencio \n por favor";
+    buttonTexts[4] = "No sé";
+    buttonTexts[5] = "Bienvenidos";
+    buttonTexts[6] = "Un placer conocerlos";
+    buttonTexts[7] = "No oigo";
+    buttonTexts[8] = "¿Cómo están?";
+    buttonTexts[9] = "Nos vemos en una \n próxima ocasión";
+    buttonTexts[10] = "Soy un robot";
+    buttonTexts[11] = "Hagamos silencio \n por favor";
     
     for(int i = 0;i < NUMBER_OF_BUTTONS;i++)
     {
